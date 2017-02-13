@@ -1,24 +1,24 @@
 
 # The name of your website.
-name: Holo Alfa
+name: \(@^0^@)/你好~
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: 欢迎在我博客留言，交流！
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: 希望大家共同进步. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: 覃小娜
 
   # Necessary for contact page
-  email: contact@stijn.vc # Change this!
+  email: qinxn6@chinaunicom.cn
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
-  info:
+  info:学无止境~
 
 url: http://steinvc.github.io
 baseurl: "/holo-alfa"
@@ -37,7 +37,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">qinxn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
